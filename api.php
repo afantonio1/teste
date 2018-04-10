@@ -1,13 +1,13 @@
 <?php
   if(isset($_POST['message'])){
     // Unique identifier of the workspace.
-    $workspace_id = 'Your workspace id.';
+    $workspace_id = '2064836a-1b24-4f0b-b77e-58adf1bca97e';
     // Release date of the API version in YYYY-MM-DD format.
-    $release_date = 'Your service released date.';
+    $release_date = '10/04/2018';
     // Username of a user for the service credentials.
-    $username = 'Your service credential username.';
+    $username = '9226b240-2e25-40d3-b838-5994caa982cc';
     // Password of a user for the service credentials.
-    $password = 'Your service credential password.';
+    $password = '0D5Mv55LD51c';
 
     // Make a request message for Watson API in json.
     $data['input']['text'] = $_POST['message'];
