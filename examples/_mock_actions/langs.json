@@ -1,0 +1,30 @@
+{
+    "de": {
+        "agent": "Auf Ihrer eigenen Site würden Sie nun den Code ausführen, um sich mit einem Agenten zu verbinden.",
+        "account_settings": "Auf Ihrer eigenen Site würden Sie nun den Code ausführen, um die Seite 'Kontoeinstellungen' zu öffnen."
+    },
+    "en": {
+        "agent": "On your own site you would run code to connect to an agent now.",
+        "account_settings": "On your own site you would run code to open the Account Settings page now."
+    },
+    "es": {
+        "agent": "En su propio sitio ejecutaría código para conectarse a un agente ahora.",
+        "account_settings": "En su propio sitio ejecutaría código para abrir la página Valores de cuenta ahora."
+    },
+    "fr": {
+        "agent": "Sur votre propre site, vous exécuteriez maintenant un code pour vous connecter à un agent.",
+        "account_settings": "Sur votre propre site, vous exécuteriez maintenant un code pour ouvrir la page des paramètres du compte."
+    },
+    "it": {
+        "agent": "Dalla vostra posizione eseguite il codice per connettervi ad un agent ora.",
+        "account_settings": "Dalla vostra posizione eseguite il codice per aprire la pagina Impostazioni Account ora."
+    },
+    "ja": {
+        "agent": "自身のサイトでコードを実行して、今すぐエージェントに接続してください。",
+        "account_settings": "自身のサイトでコードを実行して、今すぐ「アカウントの設定」ページを開いてください。"
+    },
+    "pt-br": {
+        "agent": "Em seu próprio site você executaria o código para se conectar a um agente agora.",
+        "account_settings": "Em seu próprio site você executaria o código para abrir a página Configurações da Conta agora."
+    }
+}
