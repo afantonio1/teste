@@ -1,7 +1,7 @@
 <?php
   if(isset($_POST['message'])){
     // Unique identifier of the workspace.
-    $workspace_id = '2064836a-1b24-4f0b-b77e-58adf1bca97e';
+    $workspace_id = 'https://gateway.watsonplatform.net/assistant/api/v1/workspaces/2064836a-1b24-4f0b-b77e-58adf1bca97e/message/';
     // Release date of the API version in YYYY-MM-DD format.
     $release_date = '10/04/2018';
     // Username of a user for the service credentials.
